@@ -15,6 +15,6 @@ The portfolio highlights **real-world, production-oriented use cases** across:
 > and can be shared upon request for interviews or technical discussions.
 
 ## Portfolio Index
-- [AI / Generative AI Use Cases]([ai-usecases.md](https://github.com/rajgitrepo-tech/AI-Engineering-Playbook))
-- [Machine Learning Use Cases]([ml-usecases.md](https://github.com/rajgitrepo-tech/ML-Engineering-Playbook))
-- Cloud & DevOps Use Cases *([coming soon](https://github.com/rajgitrepo-tech/cloud-engineering-playbook))*
+- [AI / Generative AI Use Cases]([ai-usecases.md] (https://github.com/rajgitrepo-tech/AI-Engineering-Playbook)
+- [Machine Learning Use Cases]([ml-usecases.md] (https://github.com/rajgitrepo-tech/ML-Engineering-Playbook))
+- Cloud & DevOps Use Cases *([coming soon] (https://github.com/rajgitrepo-tech/cloud-engineering-playbook))*
